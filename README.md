@@ -90,21 +90,21 @@ Please edit this file to add your answers to the following questions.
 * What is the host? nsnsp.org
 * What is the port number? 443
 * What is the path? /commitments
-* What are the query parameters? (no #)
-* What is the fragment? date=2017-12-09
+* What are the query? ?date=2017-12-09
+* What is the fragment? none
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?http
+* What is the host?localhost
+* What is the port number?4000
+* What is the path?admin
+* What are the query parameters?none
+* What is the fragment?none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
+* What is the scheme/protocol?htt[
 * What is the host?
 * What is the port number?
 * What is the path?
@@ -113,21 +113,21 @@ Please edit this file to add your answers to the following questions.
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?https
+* What is the host? wikipedia.org
+* What is the port number?443
+* What is the path?/Greek_alphabet
+* What are the query parameters?none
+* What is the fragment?#Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS?Secure
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? More Security
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? Yes
 
 
 ## Webpages
@@ -140,7 +140,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+a webpage is where information is stored and connected to the world wide web
 
 
 ### 11. Webpage I like
@@ -155,16 +155,16 @@ What's one webpage you like? Why?
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+https://www.w3schools.com/tags/ref_byfunc.asp
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag? HTML 5 & Defines the document type
 
-What is XML?
+What is XML?XML is a software- and hardware-independent tool for storing and transporting data.
 
-What is XHTML?
+What is XHTML?XHTML is HTML defined as an XML application and is much stricter than html
 
 
 ### 15. HTML
@@ -176,55 +176,55 @@ Are HTML files interpreted or executed?
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? 6-8
 
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML?HTML validator
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development?
+What does "Accessibility" mean in the context of web development?The accessibility of a website to all people
 
-What types of people does accessibility concern?
+What types of people does accessibility concern? Blind people
 
-What is one tool you can use to verify the accessibility of your websites?
+What is one tool you can use to verify the accessibility of your websites? 508 checker
 
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? where the metadata of the website is stored
 
-What is the `<body>` tag for?
+What is the `<body>` tag for? Where that content that will be displayed on screen will be
 
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
+What's the difference between `<head>`, `<header>`, and heading tags? header is shown on the website page and the head is not
 
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? table,thead,tbody,tfoot,tr,th,td
 
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)?
+Which tags don't have a closing pair (e.g. `<br>`)? <img>
 
 
 ### 23. Links
 
-How do you make a link open in a new window?
+How do you make a link open in a new window? target="_Blank"
 
 
 ### 24. IFRAME
 
-What is an IFRAME?
+What is an IFRAME? Too see a website within a website
 
-What are IFRAMEs commonly used for?
+What are IFRAMEs commonly used for?advertisments
 
 
 ## Writing Code
